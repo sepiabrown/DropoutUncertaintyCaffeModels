@@ -24,6 +24,6 @@ max_iter: 1000000
 snapshot: 5000
 snapshot_prefix: "co2_regression_data/MLP1024x1024x1024x1024_dropout_sampleTest"
 # solver mode: CPU or GPU
-solver_mode: GPU
+solver_mode: CPU #GPU
 # Print debug info
 #debug_info: true
