@@ -1,1 +1,1 @@
-/home/sepiabrown/MS-Thesis/DropoutUncertaintyCaffeModels/co2_regression/data/train.h5
+/home/sepiabrown/DropoutUncertaintyCaffeModels/co2_regression/data/train.h5
